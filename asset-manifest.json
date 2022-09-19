@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instagram-post-generator/static/css/main.7cb9a866.chunk.css",
+    "main.js": "/instagram-post-generator/static/js/main.209b4613.chunk.js",
+    "main.js.map": "/instagram-post-generator/static/js/main.209b4613.chunk.js.map",
+    "runtime-main.js": "/instagram-post-generator/static/js/runtime-main.a5b95a97.js",
+    "runtime-main.js.map": "/instagram-post-generator/static/js/runtime-main.a5b95a97.js.map",
+    "static/js/2.c8161d68.chunk.js": "/instagram-post-generator/static/js/2.c8161d68.chunk.js",
+    "static/js/2.c8161d68.chunk.js.map": "/instagram-post-generator/static/js/2.c8161d68.chunk.js.map",
+    "static/js/3.32ec2d81.chunk.js": "/instagram-post-generator/static/js/3.32ec2d81.chunk.js",
+    "static/js/3.32ec2d81.chunk.js.map": "/instagram-post-generator/static/js/3.32ec2d81.chunk.js.map",
+    "index.html": "/instagram-post-generator/index.html",
+    "static/css/main.7cb9a866.chunk.css.map": "/instagram-post-generator/static/css/main.7cb9a866.chunk.css.map",
+    "static/js/2.c8161d68.chunk.js.LICENSE.txt": "/instagram-post-generator/static/js/2.c8161d68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b95a97.js",
+    "static/js/2.c8161d68.chunk.js",
+    "static/css/main.7cb9a866.chunk.css",
+    "static/js/main.209b4613.chunk.js"
+  ]
+}

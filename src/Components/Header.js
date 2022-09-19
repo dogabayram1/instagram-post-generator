@@ -105,6 +105,7 @@ class Header extends Component {
                   type="text"
                   onChange={this.getData}
                   value={this.state.inputValue}
+                  placeholder="Enter famous person name"
                 ></input>
                 {this.state.loading ? (
                   <div className="spinner-container">

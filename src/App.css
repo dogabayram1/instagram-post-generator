@@ -1,0 +1,13 @@
+#home {
+  height: 100% !important;
+  position: static !important;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+  font-family: "OpenSans-Bold";
+}
+/* .banner-text {
+  height: 700px;
+} */
